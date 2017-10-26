@@ -1,6 +1,6 @@
 # This is a read me
 
-![This is a picture of a dog] (https://static.pexels.com/photos/39317/chihuahua-dog-puppy-cute-39317.jpeg)
+![This is a picture of a dog](https://static.pexels.com/photos/39317/chihuahua-dog-puppy-cute-39317.jpeg)
 
 ```My Coding block```
 
